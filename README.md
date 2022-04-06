@@ -6,3 +6,9 @@ I love streamlit and use it whenever I need some ad-hoc EDA so growing in famili
 
 
 Challenges found [here](https://share.streamlit.io/streamlit/30days)
+
+
+## NOTES
+
+* Day 4 was following along with Ken Jee - I watched the video but didn't do the app as I'm pretty familiar with plotly and build apps already with plotly figures
+* Day 6 was about setting up git/GitHub which I've done from the onset
